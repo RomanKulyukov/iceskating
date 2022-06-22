@@ -1,9 +1,12 @@
 import "./App.css";
-
+import ContentOuter from "./hoc/ContentOuter/ContentOuter";
+import Content from "./Content/Content";
 function App() {
   return (
     <div className="App">
-      <h1>ICE SKATING</h1>
+      <ContentOuter>
+        <Content />
+      </ContentOuter>
     </div>
   );
 }

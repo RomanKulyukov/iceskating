@@ -1,0 +1,7 @@
+.ContentOuter {
+  width: 100%;
+  height: 1000vh;
+  background-color: rgb(223, 244, 251);
+  display: flex;
+  justify-content: center;
+}
