@@ -5,7 +5,6 @@ import Header_UI from "../Header_UI/Header_UI";
 function Header() {
   return (
     <div className={classes.Header}>
-      <span>Header</span>
       <Header_Banner />
       <Header_UI />
     </div>

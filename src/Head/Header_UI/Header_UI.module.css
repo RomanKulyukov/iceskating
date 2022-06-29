@@ -1,5 +1,5 @@
 .Header_UI {
-  background-color: rgb(230, 255, 171);
+  margin-top: 5px;
   display: flex;
   justify-content: space-between;
 }

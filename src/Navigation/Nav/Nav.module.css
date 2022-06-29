@@ -1,0 +1,24 @@
+.Nav {
+  /* background-color: rgb(156, 207, 232); */
+}
+.Nav ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.Nav a {
+  text-decoration: none;
+  color: black;
+}
+.Nav img {
+  margin-left: 5px;
+  width: 15px;
+  height: 15px;
+}
+.Nav__arrowfix {
+  display: flex;
+  align-items: center;
+}

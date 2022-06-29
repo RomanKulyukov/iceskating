@@ -1,3 +1,6 @@
 .Header_UI_Srch {
-  background-color: rgb(255, 183, 253);
+  width: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
